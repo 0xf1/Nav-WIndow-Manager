@@ -9,3 +9,5 @@
 
 ![alt text](https://github.com/0xf1/Nav-WIndow-Manager/blob/main/pic2_.JPG?raw=true)
 
+Дополнительно:
+* Окно *Settings/Arg transformers...* служит для замены аргументов коммандной строки на форме на читаемое значение
